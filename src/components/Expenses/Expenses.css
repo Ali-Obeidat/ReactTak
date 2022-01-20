@@ -1,0 +1,14 @@
+.container{
+    width: 60%;
+    height: 40%;
+    background-color: black;
+    padding:5px 20px;
+    margin:auto;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    margin:5% auto;
+    
+    
+  }
+ 
